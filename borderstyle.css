@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+h1{
+     border-width: 5px;
+     color: burlywood;
+     border-color: seagreen;
+     border-style: solid;     
+}
+div{
+
+    border-bottom: 15px solid chocolate;
+    border-top: 15px solid chocolate;
+    border-right: 15px solid chocolate;
+    border-left: 15px solid chocolate;
+
+}
+div p{
+    border: 5px double dodgerblue;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}

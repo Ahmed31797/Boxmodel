@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.container{
+    font-size: 4rem;
+    text-align: center;
+    color: goldenrod;
+}
+
+.my_heading{
+    margin: 1rem;
+    padding: 0.5rem;
+    font-size: 3rem;
+    color: dodgerblue;
+    border: solid;
+}
